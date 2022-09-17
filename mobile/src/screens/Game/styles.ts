@@ -23,8 +23,8 @@ export const styles = StyleSheet.create({
     height: 20,
   },
   cover: {
-    width: 350,
-    height: 460,
+    width: 311,
+    height: 160,
     borderRadius: 8,
     marginTop: 32,
   },
